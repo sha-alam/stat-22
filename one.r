@@ -1,10 +1,3 @@
-# Find out the point estimate of the population mean and interval estimate of the population mean. Where 30 students quiz test marks is
-# (2,4,3,23,25,27,28,13,15,16,20,14,35,33,32,21,35,40,42,22,33,13,17,20,25,29,27,40,38,31)
-# Total marks 50. Here population size N=30 and sample size n=10.also illustrate the sample size determination, sampling distribution for mean and check the unbiasedness of the population mean.
-
-
-
-
 Iq=c(2,4,3,23,25,27,28,13,15,16,20,14,35,33,32,21,35,40,42,22,33,13,17,20,25,29,27,40,38,31)
 population_mean=mean(Iq)
 population_variance=var(Iq)
